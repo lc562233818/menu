@@ -1,0 +1,4 @@
+使用vagrant+VirtualBox创建虚拟机
+安装完成后可以使用 vagrant init centos创建虚拟机系统
+创建完成后使用vagrant up开启虚拟机
+开启完成可以使用vagrant ssh连接该虚拟机
